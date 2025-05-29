@@ -1,0 +1,211 @@
+{
+  "Response": {
+    "AssetGroupList": {
+      "AssetGroup": [
+        {
+          "ID": "3805468",
+          "Title": "Test Asset Group",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "3819437",
+          "Title": "CJRTestAssetGroup",
+          "Appliance_id": [
+            "3699562"
+          ],
+          "Default_appliance_id": "3699562",
+          "Ip_set": null
+        },
+        {
+          "ID": "5348856",
+          "Title": "EMH Agent",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "5409822",
+          "Title": "WilliamWallace",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "6640460",
+          "Title": "Map Results for LID",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": [
+            {
+              "Ip_range": null,
+              "Ip_address": [
+                "10.10.6.150"
+              ]
+            }
+          ]
+        },
+        {
+          "ID": "6640461",
+          "Title": "Plano OCI Map Results for LID",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "7369638",
+          "Title": "NC ESX Servers",
+          "Appliance_id": [
+            "3887914"
+          ],
+          "Default_appliance_id": "3887914",
+          "Ip_set": [
+            {
+              "Ip_range": [
+                "10.10.6.176-10.10.6.201"
+              ],
+              "Ip_address": null
+            }
+          ]
+        },
+        {
+          "ID": "7370146",
+          "Title": "Qualys Lab IPs",
+          "Appliance_id": [
+            "3887914"
+          ],
+          "Default_appliance_id": "3887914",
+          "Ip_set": null
+        },
+        {
+          "ID": "7370438",
+          "Title": "AG: San Jose",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "7376326",
+          "Title": "AG: Windows Compliance",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "7376327",
+          "Title": "AG: Unix Compliance",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "7426044",
+          "Title": "AG: Windows demo",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "7426045",
+          "Title": "AG: Linux demo",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "12269415",
+          "Title": "AG:Roswell",
+          "Appliance_id": [
+            "4475909"
+          ],
+          "Default_appliance_id": "4475909",
+          "Ip_set": null
+        },
+        {
+          "ID": "13783327",
+          "Title": "Sanjose",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": null
+        },
+        {
+          "ID": "14190418",
+          "Title": "AG: Windows",
+          "Appliance_id": [
+            "3887914"
+          ],
+          "Default_appliance_id": "3887914",
+          "Ip_set": [
+            {
+              "Ip_range": [
+                "10.10.6.190-10.10.6.194"
+              ],
+              "Ip_address": [
+                "10.10.6.183",
+                "10.10.6.186",
+                "10.10.6.200"
+              ]
+            }
+          ]
+        },
+        {
+          "ID": "14190419",
+          "Title": "AG: Linux",
+          "Appliance_id": [
+            "3887914"
+          ],
+          "Default_appliance_id": "3887914",
+          "Ip_set": [
+            {
+              "Ip_range": null,
+              "Ip_address": [
+                "10.10.6.177",
+                "10.10.6.179",
+                "10.10.6.182",
+                "10.10.6.185",
+                "10.10.6.187",
+                "10.10.6.201"
+              ]
+            }
+          ]
+        },
+        {
+          "ID": "15134996",
+          "Title": "AA Test Group",
+          "Appliance_id": null,
+          "Default_appliance_id": "",
+          "Ip_set": [
+            {
+              "Ip_range": null,
+              "Ip_address": [
+                "10.0.128.226"
+              ]
+            }
+          ]
+        },
+        {
+          "ID": "15856900",
+          "Title": "GPSEC API Testing",
+          "Appliance_id": [
+            "3699562,3887914,4475909,5249673"
+          ],
+          "Default_appliance_id": "5249673",
+          "Ip_set": [
+            {
+              "Ip_range": [
+                "10.10.6.176-10.10.6.201"
+              ],
+              "Ip_address": [
+                "10.0.128.226",
+                "10.10.6.150",
+                "10.10.6.174",
+                "54.188.240.117"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

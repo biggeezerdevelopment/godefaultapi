@@ -1,0 +1,34 @@
+{
+  "Response": {
+    "ScanList": {
+      "Scan": [
+        {
+          "Ref": "scan/1743786028.80692",
+          "Title": "NC ESX Servers",
+          "Status": {
+            "State": "Finished",
+            "SubState": ""
+          },
+          "LaunchDate": "2025-04-04T17:00:28Z",
+          "EndDate": "",
+          "Duration": "00:53:39",
+          "ProcessingPriority": "0 - No Priority",
+          "Target": "10.10.6.176-10.10.6.201"
+        },
+        {
+          "Ref": "scan/1743181229.88890",
+          "Title": "NC ESX Servers",
+          "Status": {
+            "State": "Finished",
+            "SubState": ""
+          },
+          "LaunchDate": "2025-03-28T17:00:29Z",
+          "EndDate": "",
+          "Duration": "00:55:06",
+          "ProcessingPriority": "0 - No Priority",
+          "Target": "10.10.6.176-10.10.6.201"
+        }
+      ]
+    }
+  }
+}
