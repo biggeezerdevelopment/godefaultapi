@@ -5,6 +5,7 @@ ENV/
 .env/
 .venv/
 .cursor
+.json
 # Project specific
 phishing_pot/
 
