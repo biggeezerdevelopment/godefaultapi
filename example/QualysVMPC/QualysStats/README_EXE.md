@@ -59,7 +59,7 @@ qualysstats -username <username> -password <password>
 
 ### Command Line Options
 
-- `-output`: Specify the output directory for reports (default: current directory)
+- `-output`: Specify the output directory for reports (default: `output` current directory)
 - `-username`: Username (required)
 - `-password`: Password (required)
 - `-url`: Qualys api url (default set to GuidePoints api url)

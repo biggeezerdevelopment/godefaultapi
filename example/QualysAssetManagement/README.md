@@ -57,8 +57,7 @@ go run QualysByTag/main.go -username <username> -password <password> -tagName <t
 - `-url`: Qualys API URL (default: https://qualysapi.qg3.apps.qualys.com)
 - `-username`: Qualys username (required)
 - `-password`: Qualys password (required)
-- `-tagName`: Tag name to search for (required)
-- `-limit`: Number of results per page (default: 100, max: 1000)
+- `-output` : default `output` 
 
 #### Example
 ```bash
